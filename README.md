@@ -1,2 +1,2 @@
 # analisadorlexico
-Alunos: Henrique Colle Marinozzi e Evandro Diniz
+Alunos: Evandro Cirineu DinizJúnior e Henrique Colle Marinozzi
