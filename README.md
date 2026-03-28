@@ -3,8 +3,8 @@
 # Analisador Léxico
 
 ## Integrantes do Grupo
-- Evandro Diniz
-- Henrique Colle Marinozzi
+- Evandro Diniz Git: evdiniz
+- Henrique Colle Marinozzi Git: HenriqueMarinozzi
 
 Grupo no Canvas: Grupo 22
 
