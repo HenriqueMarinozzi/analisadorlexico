@@ -1,10 +1,16 @@
-# analisadorlexico
+# Projeto PUCPR - Analisador Léxico
 
-Estudantes:
+# Analisador Léxico
 
-Evandro Diniz
-Henrique Colle Marinozzi
+## Integrantes do Grupo
+- Evandro Diniz
+- Henrique Colle Marinozzi
 
-Para rodar o código é necessário o seguinte comando:
+## Projeto
+Fase 1 - Analisador Léxico e Gerador de Assembly para ARMv7
 
+## Como executar
+Para rodar o código, utilize o seguinte comando:
+
+```bash
 python main.py arquivosTeste/teste2.txt
