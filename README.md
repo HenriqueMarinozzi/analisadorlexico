@@ -16,7 +16,7 @@ Fase 1 - Analisador Léxico e Gerador de Assembly para ARMv7
 
 Para rodar o código, utilize o seguinte comando:
 
-python main.py expressoes_lexico/teste2.txt
+python main.py expressoes_lexico/teste.txt
 
 ## Visão Geral
 
